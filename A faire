@@ -1,3 +1,5 @@
+Dans doc.zip
+
 Créer un système qui envoie automatiquement un e-mail à l’utilisateur avancé lorsqu’une demande de réservation est effectuée. Ce système devra également notifier par e-mail le demandeur lorsqu’une réponse (acceptation ou refus) est donnée, ainsi qu’en cas de signalement d’un objet en panne.
 
 Mettre en place un système de points et de niveaux pour les utilisateurs. Lorsqu’un utilisateur obtient une réservation, il peut noter l’utilisateur précédent sur la qualité d’utilisation de l’objet et sur l’état dans lequel il l’a retrouvé.
